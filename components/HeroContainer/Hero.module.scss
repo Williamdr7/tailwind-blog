@@ -1,5 +1,5 @@
 .container {
-  height: 900px;
+  height: calc(100% - 80px);
   width: 100%;
   background-image: url("../../public/Hero.svg");
 }
